@@ -22,4 +22,10 @@ collection: main
 
 \* All reports are due electronically by midnight on the specified date.
 
-## Final Exam
+## How to Succeed in This Class
+
+The class is designed such that students can follow along with course material using Jupyter notebooks. **It is key** that students follow along through course material during lectures. Notebooks are available to students on the course website, and personal copies can be modified by students to incorporate lecture material with personal notes.
+
+The course is also based around a textbook for the benefit of both the instructor and students. While reading the textbook is optional, I do recommend reading as much of it as you can, particularly material that you are struggling with. Some concepts will require multiple encounters to *get* it, and the textbook provides another touchpoint.
+
+I also recommend adding to your personal cheatsheet throughout each unit, as this will be your go-to resource on exams. Further, it will give students a way of mentally organizing key concepts throughout the course to keep track of the terrain of the material.

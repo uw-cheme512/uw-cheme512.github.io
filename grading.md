@@ -36,11 +36,7 @@ Students can receive up to 5% extra credit by providing a numerical solution in 
 
 Everything you submit in this class should be your own work. If you do need to "copy-paste" from the web or from other students' notebooks, this should be clearly cited. Using examples isn't entirely off-limits, but you learn by doing, not by copying. We will follow the [UW academic misconduct policy](https://www.washington.edu/cssc/facultystaff/academic-misconduct/) for any suspected instances of cheating on homework or exams. Any confirmed instances of cheating will result in a zero. Any 2nd instance of cheating will result in a zero for the entire course grade.
 
-Oh, and please do not use solution manuals or pass around homeworks from former students. Have some self-respect.
-
 ## Late Work
-
-Late assignments will be penalized by 10% for the first 0-24 hours and 10% for each additional day (including weekends and holidays).
 
 With the exception of pre-arrangement with the instructor in extenuating circumstances, **exams must be taken on the day scheduled**. No re-dos will be offered.
 
