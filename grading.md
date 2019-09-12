@@ -32,10 +32,6 @@ Students will give one presentation on the solution to a transient heat/mass tra
 
 Students can receive up to 5% extra credit by providing a numerical solution in addition to an analytical solution.
 
-## A Note About Collaboration
-
-Everything you submit in this class should be your own work. If you do need to "copy-paste" from the web or from other students' notebooks, this should be clearly cited. Using examples isn't entirely off-limits, but you learn by doing, not by copying. We will follow the [UW academic misconduct policy](https://www.washington.edu/cssc/facultystaff/academic-misconduct/) for any suspected instances of cheating on homework or exams. Any confirmed instances of cheating will result in a zero. Any 2nd instance of cheating will result in a zero for the entire course grade.
-
 ## Late Work
 
 With the exception of pre-arrangement with the instructor in extenuating circumstances, **exams must be taken on the day scheduled**. No re-dos will be offered.
