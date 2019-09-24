@@ -23,3 +23,5 @@ A rough break-down of the quarter will be matrices and ODEs prior to the first e
 # Additional Materials
 
 A useful resource for several topics covered in the course are [Paul's Online Notes](http://tutorial.math.lamar.edu/Classes/DE/DE.aspx). They do **not** include all course material, so do not solely rely on them.
+
+If you have an interest in the historical development of some of the concepts taught in this class, [Significant Figures](https://alliance-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=CP71262078660001451&context=L&vid=UW&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,significant%20figures) is a good laymen's text to begin with.
