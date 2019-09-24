@@ -6,6 +6,8 @@ collection: main
 
 ## Course Schedule
 
+Homeworks are due the following Wednesday the week after they have been assigned.
+
 | Week | Mo     | Wed    | Th     | Fr     | Homework | Reading |
 | ---- | ------------- | ------------- | ------------- | ------------- | ------------ | ------ |
 | 1    | NA            | Sept 25 <br> Syllabus <br> [Intro](https://github.com/uw-cheme512/uw-cheme512.github.io/raw/master/notebooks/L1_Introduction.ipynb) to Jupyter, <br> Markdown, and GitHub      | 26 <br> Before you solve | 27 <br> Matrices | HW 1 | M 1 |
