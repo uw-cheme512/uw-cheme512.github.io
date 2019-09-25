@@ -19,6 +19,9 @@ Applications of mathematics to problems in chemical engineering; vector calculus
 ## Teaching Logistics
 
 - Lectures: M/W/Th/F 11:30-12:20 ([LOW](https://www.washington.edu/maps/#!/low) 201)
+- Office Hours:
+  - M 2:30-3:30 (BNS 236)
+  - W 10:30-11:30 (BNS 236)
 
 ## Course Objectives
 
