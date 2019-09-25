@@ -10,7 +10,7 @@ Homeworks are due the following Wednesday the week after they have been assigned
 
 | Week | Mo     | Wed    | Th     | Fr     | Homework | Reading |
 | ---- | ------------- | ------------- | ------------- | ------------- | ------------ | ------ |
-| 1    | NA            | Sept 25 <br> Syllabus <br> [Intro](https://raw.githubusercontent.com/uw-cheme512/uw-cheme512.github.io/master/notebooks/L1_Introduction.ipynb) to Jupyter, <br> Markdown, and GitHub      | 26 <br> Before you solve | 27 <br> Matrices | HW 1 | M 1 |
+| 1    | NA            | Sept 25 <br> Syllabus <br> [Intro](https://raw.githubusercontent.com/uw-cheme512/uw-cheme512.github.io/master/notebooks/L1_Introduction.ipynb) to Jupyter, <br> Markdown, and GitHub      | 26 <br> Before you solve | 27 <br> Matrices | [HW 1](https://github.com/uw-cheme512/hw1) | M 1 |
 | 2    | 30 <br> Methods summary | Oct 2 ODEs <br> (separable, exact, int. factor) | 3 Stability theory  | 4 Linear systems | HW 2 | M 2-3 |
 | 3    | 7 Finite Difference <br> (ODEs) | 9 Finite Difference <br> (PDEs) | 10 <br> series solutions | 11 TBD | HW 3 | Sod <br> M 4 |
 | 4    | 14 Intro to PDEs | 16 Intro to PDEs | Review      | Exam 1       | HW 4 | M 5 |
