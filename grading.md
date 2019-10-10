@@ -38,4 +38,4 @@ With the exception of pre-arrangement with the instructor in extenuating circums
 
 ## Exams
 
-All exams are cumulative. Students will be allowed a copy of the [cheatsheet](https://raw.githubusercontent.com/uw-cheme512/uw-cheme512.github.io/master/notebooks/cheatsheet.ipynb) printed on one page, with any additional notes they can fit on that page. **No textbooks will be allowed**. Calculators will not be necessary.
+All exams are cumulative. Students will be allowed a copy of the [cheatsheet](https://github.com/uw-cheme512/uw-cheme512.github.io/raw/master/notebooks/cheatsheet.pdf) printed on one page, with any additional notes they can fit on that page. **No textbooks will be allowed**. Calculators will not be necessary.
